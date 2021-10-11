@@ -10,7 +10,8 @@
 
 _Upd. 09.10.2021_
 
-https://www.youtube.com/watch?v=LT8QJcOFrwo
+🎬 https://www.youtube.com/watch?v=LT8QJcOFrwo
+🗨️ https://docs.google.com/presentation/d/e/2PACX-1vTmPVVJLa1bFdyCH8z1I8cZIQXxZs63n-5-S1dgqhqKlTMe48_5kN1r2yNi_Ii8eQ/pub
 
 #### Основные виды данных
 
