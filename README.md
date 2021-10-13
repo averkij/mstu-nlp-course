@@ -52,7 +52,7 @@ _Upd. 09.10.2021_
 
 Термины и понятия:
 
-- Tokenisation
+- Tokenization
 - Lemmatization
 - Stemming
 - Distributional semantics
