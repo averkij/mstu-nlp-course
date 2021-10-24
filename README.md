@@ -1,8 +1,8 @@
 # A Dive into Natural Language Processing
 
-![](https://i.imgur.com/fHnpcua.png)
+![](https://i.imgur.com/S0EftIF.jpg)
 
-План курса для студентов МГТУ им. Баумана.
+**МГТУ им. Баумана, осень 2021.**
 
 ## Лекция 1. Обзор современного машинного обучения
 
@@ -77,8 +77,17 @@ _Update 24.10.2021_
 
 🗨️ https://docs.google.com/presentation/d/162aedK5-nubUV-Z59zQ5zMW5nnLyB8Gu
 
-#### 
-
+- One-hot encoding
+- Bag of Words
+- N-grams
+- TF-IDF
+- Distributional semantics
+- Pointwise mutual information
+- Matrix factorization
+- SVD
+- Word2Vec
+- Subsampling
+- Negative sampling
 
 ## Семинар 2. Основные задачи
 
