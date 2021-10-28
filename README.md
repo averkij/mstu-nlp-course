@@ -56,7 +56,7 @@ _Update 16.10.2021_
 
 ⚡ https://colab.research.google.com/drive/1sBavnRdQTR7NDZDgLwv6_yVnu_UY_PL2?usp=sharing
 
-**🦉 Понятия и термины**
+**💧 Понятия и термины**
 
 - Tokenization
 - Lemmatization
@@ -77,7 +77,7 @@ _Update 24.10.2021_
 
 🗨️ https://docs.google.com/presentation/d/162aedK5-nubUV-Z59zQ5zMW5nnLyB8Gu
 
-**🦉 Понятия и термины**
+**💧 Понятия и термины**
 
 - One-hot encoding
 - Bag of Words
@@ -95,7 +95,7 @@ _Update 24.10.2021_
 
 Применим базовые подходы для решения задач. Узнаем, что такое transfer learning и как начать просто использовать предобученные модели через _huggingface_.
 
-**🦉 Понятия и термины**
+**💧 Понятия и термины**
 
 - Neural nets
 - Text classification
@@ -105,7 +105,7 @@ _Update 24.10.2021_
 - Huggingface
 - Interview questions
 
-**🦊 Полезные ссылки**
+**⭐️ Полезные ссылки**
 
 - [Теоретические вопросы по анализу данных](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
 - [Видео от Deep Learning School (МФТИ) про полносвязные сети и механизм обучения](https://www.youtube.com/watch?v=O0nGKKFyYT4) 
