@@ -107,8 +107,9 @@ _Update 24.10.2021_
 
 **⭐️ Полезные ссылки**
 
-- [Теоретические вопросы по анализу данных](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
-- [Видео от Deep Learning School (МФТИ) про полносвязные сети и механизм обучения](https://www.youtube.com/watch?v=O0nGKKFyYT4) 
+- [Теоретические вопросы по анализу данных для общего развития и подготовки к интервью](https://github.com/alexeygrigorev/data-science-interviews/blob/master/theory.md)
+- [Видео от Deep Learning School (МФТИ) про полносвязные сети и механизм обучения](https://www.youtube.com/watch?v=O0nGKKFyYT4)
+- [Заметка от Евгения Соколова про метрики классификации](https://github.com/esokolov/ml-course-msu/blob/master/ML15/lecture-notes/Sem05_metrics.pdf)
 
 ## Лекция 3. Переломный момент в ML
 
