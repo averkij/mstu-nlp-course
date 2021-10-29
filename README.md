@@ -14,14 +14,14 @@ _Upd. 09.10.2021_
 
 🗨️ https://docs.google.com/presentation/d/1YFy-Ia7qwkiQp8nlHk7__JIFeB-dAnzI
 
-**Основные виды данных**
+**✨ Основные виды данных**
 
 - Табличные данные и врменные ряды
 - Видео и звук
 - Картинки
 - Текстовые данные
 
-**Типичные задачи ML**
+**✨ Типичные задачи ML**
 
 - Forecasting
 - Anomaly detection
@@ -56,7 +56,7 @@ _Update 16.10.2021_
 
 ⚡ https://colab.research.google.com/drive/1sBavnRdQTR7NDZDgLwv6_yVnu_UY_PL2?usp=sharing
 
-**💧 Понятия и термины**
+**✨ Понятия и термины**
 
 - Tokenization
 - Lemmatization
@@ -77,7 +77,7 @@ _Update 24.10.2021_
 
 🗨️ https://docs.google.com/presentation/d/162aedK5-nubUV-Z59zQ5zMW5nnLyB8Gu
 
-**💧 Понятия и термины**
+**✨ Понятия и термины**
 
 - One-hot encoding
 - Bag of Words
@@ -91,11 +91,13 @@ _Update 24.10.2021_
 - Subsampling
 - Negative sampling
 
-## Семинар 2. Основные задачи NLP. Transfer learning
+## Семинар 2. Классификация текстов. Transfer learning
 
 Применим базовые подходы для решения задач. Узнаем, что такое transfer learning и как начать просто использовать предобученные модели через _huggingface_.
 
-**💧 Понятия и термины**
+⚡ https://colab.research.google.com/drive/1xtkx4pj3v7lNKXJvD63nu4YGn7YFlAlC?usp=sharing
+
+**✨ Понятия и термины**
 
 - Neural nets
 - Text classification
