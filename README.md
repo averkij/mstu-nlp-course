@@ -93,7 +93,11 @@ _Update 24.10.2021_
 
 ## Семинар 2. Классификация текстов. Transfer learning
 
+_Upd. 30.10.2021_
+
 Применим базовые подходы для решения задач. Узнаем, что такое transfer learning и как начать просто использовать предобученные модели через _huggingface_.
+
+🎬 https://www.youtube.com/watch?v=uRAsurPHycw
 
 ⚡ https://colab.research.google.com/drive/1xtkx4pj3v7lNKXJvD63nu4YGn7YFlAlC?usp=sharing
 
