@@ -1,8 +1,8 @@
 # A Dive into Natural Language Processing
 
-![](https://i.imgur.com/S0EftIF.jpg)
+![](https://i.imgur.com/GTH36GV.png)
 
-**МГТУ им. Баумана, осень 2021.**
+*МГТУ им. Баумана, осень 2021.*
 
 ## 1. Лекция. Обзор современного машинного обучения
 
