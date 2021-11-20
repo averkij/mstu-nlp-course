@@ -140,7 +140,7 @@ _Upd. 10.11.2021_
 
 Поговорим, что такое PyTorch и для чего он нужен. Потренируем сеть на MNIST'е. Отрефакторим в PyTorch Lightning, чтобы было проще работать с моделью.
 
-🎬 TBD
+🎬 https://www.youtube.com/watch?v=Oc-DX3xwyFA
 
 ⚡ https://colab.research.google.com/drive/1K1hz93ceM926vyEs0Ouxbizu458GDHd0
 
