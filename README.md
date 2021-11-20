@@ -156,11 +156,35 @@ _Upd. 10.11.2021_
 
 ## 7. Лекция. Машинный перевод
 
+_Update 20.11.2021_
+
 Машинный перевод — движущая сила NLP. Поговорим про его развитие, про современные модели, про проблемы, связанные с их обучением.
 
-🎬 TBD
+🎬 https://youtu.be/8JqWdACYKns
 
-🗨️ TBD
+🗨️ https://docs.google.com/presentation/d/1QtWcCkZQ6RqgsXohPy3Pm-t3iyIwAj5l
+
+**✨ Понятия и термины**
+
+- Machine translation
+- BLEU, NIST, METEOR
+- Джорджтаунский эксперимент
+- ALPAC report
+- Parallel corpora
+- RBMT. Rule-based machine translation
+- EBMT. Example-based machine translation
+- SMT. Statistical machine translation
+- NMT. Neural machine translation
+
+**⭐️ Ссылки**
+
+- [Awesome Machine Translation](https://github.com/maidis/awesome-machine-translation)
+- [OpenNMT](https://opennmt.net/)
+- [Лекция от МФТИ по машинному переводу](https://www.youtube.com/watch?v=6HibilFua-U)
+- [The first-ever multilingual model to win WMT](https://ai.facebook.com/blog/the-first-ever-multilingual-model-to-win-wmt-beating-out-bilingual-models/)
+- [mT5](https://github.com/google-research/multilingual-t5)
+- [ruT5, ruRoBERTa, ruBERT](https://habr.com/ru/company/sberbank/blog/567776/)
+
 
 ## 8. Семинар. Машинный перевод
 
