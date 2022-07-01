@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/GTH36GV.png)
 
-*МГТУ им. Баумана, осень 2021.*
+⭐ [градиент обреченный](https://t.me/doomgrad) — телеграм канал про машинное обучение.
 
 ## 1. Лекция. Обзор современного машинного обучения
 
@@ -206,4 +206,4 @@ _Upd. 26.11.2021_
 
 ---
 
-_tg: @averkij_
+_tg: [@averkij](https://t.me/averkij)_ _[@doomgrad](https://t.me/doomgrad)_
